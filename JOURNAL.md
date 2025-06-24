@@ -16,7 +16,7 @@ It's getting late so I only got to finish the schematic since I needed to know w
 # June 24th: PCB
 I finished designing the PCB and routing took up the most time because I suck at placing my components efficiently. I am actually not going to be placing my switch and my button on the PCB, but I'm going to be soldering wires that connect it to the base of my wand.
 
-![image](https://github.com/user-attachments/assets/a5e35a3d-c632-4e6d-ad67-0261db83e083)
+![image](https://github.com/user-attachments/assets/d2e338dd-2e1d-4e78-a1c2-d0e454985623)
 ![image](https://github.com/user-attachments/assets/eb50b724-fdc3-47de-ad52-d8226982a803)
 
 **Total Time spent: 1 hour**
